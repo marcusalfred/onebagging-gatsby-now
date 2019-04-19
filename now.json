@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "name": "bagging.one",
+  "alias": ["bagging.one"],
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build",
+      "config": { "distDir": "public" }
+    }
+  ]
+}

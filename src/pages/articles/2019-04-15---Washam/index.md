@@ -1,10 +1,10 @@
 ---
-title: Upgraded to Gatsby v2
-date: "2018-10-18T16:51:00.000Z"
+title: Washam
+date: "2019-04-15T16:51:00.000Z"
 layout: post
 draft: false
-path: "/posts/upgraded-to-gatsby-v2/"
-category: "Gatsby"
+path: "/posts/washam/"
+category: "Test"
 tags:
   - "Gatsby"
   - "Web Development"

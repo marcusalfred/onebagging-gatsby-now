@@ -4,9 +4,9 @@ const pxtorem = require('postcss-pxtorem')
 module.exports = {
   siteMetadata: {
     url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
+    title: 'Onebaggers from NOLA',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'Two travelers from New Orleans document thier experience of traveling light.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -15,16 +15,16 @@ module.exports = {
         path: '/',
       },
       {
-        label: 'About me',
-        path: '/about/',
+        label: 'About Sadiq',
+        path: '/sadiq/',
       },
       {
-        label: 'Contact me',
-        path: '/contact/',
+        label: 'About Marcus',
+        path: '/marcus/',
       },
     ],
     author: {
-      name: 'John Doe',
+      name: 'NOLA Onebaggers',
       email: '#',
       telegram: '#',
       twitter: '#',
