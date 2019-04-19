@@ -2,7 +2,7 @@
 title: Template_Copy_Me
 date: "2019-04-19T14:07:00.000Z"
 layout: post
-draft: true
+draft: false
 path: "/posts/template/"
 category: "template"
 tags:
