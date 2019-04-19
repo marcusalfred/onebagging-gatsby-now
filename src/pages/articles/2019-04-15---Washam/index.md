@@ -4,11 +4,11 @@ date: "2019-04-15T16:51:00.000Z"
 layout: post
 draft: false
 path: "/posts/washam/"
-category: "Test"
+category: "Marcus"
 tags:
   - "Gatsby"
   - "Web Development"
-description: "This starter has been forked and upgraded to Gatsby v2"
+description: "Testing Github deploys to now"
 ---
 
 This is a Gatsby v2 compatible version of the
