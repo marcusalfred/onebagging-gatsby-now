@@ -1,15 +1,12 @@
 ---
-title: Humane Typography in the Digital Age
-date: "2017-08-19T22:40:32.169Z"
+title: Hello World
+date: "2019-04-19T23:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/humane-typography-in-the-digital-age/"
-category: "Typography"
+path: "/posts/HelloWorld/"
+category: "Sadiq"
 tags:
-  - "Design"
-  - "Typography"
-  - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
+description: "Hey Sadiq"
 ---
 
 An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.
