@@ -1,13 +1,36 @@
 ---
-title: "About me"
+title: "Sadiq"
 layout: page
 path: "/sadiq"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+## Basics
+- **NAME:** Sadiq </br>
+- **GENDER:** Male </br>
+- **RACE:** Black </br>
+- **HOME:** New Orleans, LA </br>
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)
+## Bags
+- LL Bean Continental Travel Pack 41
+- Setout Packable Daypack
+- Herschel Supply Co. Cruz
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+## Must Haves
+- Multitool
+- Flashlight
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+## Places Visited
+- Jamaica
+- Bahia, Brazil
+- Dubai, UAE
+- Abu Dhabi, UAE
+- Cancun, Mexico
+- Panama City, Panama
+- Toronto, Canada
+- Tijuana, Mexico
+- Cartagana, Colombia
+- Barranquila, Colombia
+- Bogata, Colombia
+- Zipaquira, Colombia
+
+## Travel Bucketlist
