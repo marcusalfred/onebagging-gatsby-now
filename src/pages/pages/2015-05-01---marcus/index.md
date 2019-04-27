@@ -6,11 +6,12 @@ path: "/marcus"
 
 
 ## Bio
-![Photo of me](./photo.jpg)
 **name:** Marcus </br>
 **gender:** Male </br>
 Black
 New Orleans, LA
+
+![Photo of me](./photo.jpg)
 
 ## Bags
 - Tom Bihn Synapse 25
