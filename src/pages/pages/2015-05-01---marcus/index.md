@@ -8,10 +8,10 @@ path: "/marcus"
 	<img src="./photo.jpg" alt="Gutenberg">
 </figure>
 
-## Bio
-**name:** Marcus </br>
-**gender:** Male </br>
-**home:** New Orleans, LA </br>
+## Basics
+- **NAME:** Marcus </br>
+- **GENDER:** Male </br>
+- **HOME:** New Orleans, LA </br>
 
 
 ## Bags
