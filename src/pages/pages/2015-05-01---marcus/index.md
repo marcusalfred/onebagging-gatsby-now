@@ -7,11 +7,10 @@ path: "/marcus"
 
 ## Bio
 ![Photo of me](./photo.jpg)
-- Marcus
-- Male
-- Black
-- Married
-- New Orleans, LA
+**name:** Marcus </br>
+**gender:** Male </br>
+Black
+New Orleans, LA
 
 ## Bags
 - Tom Bihn Synapse 25
