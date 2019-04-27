@@ -2,7 +2,7 @@
 title: Hello World
 date: "2019-04-19T23:40:32.169Z"
 layout: post
-draft: false
+draft: true
 path: "/posts/HelloWorld/"
 category: "Sadiq"
 tags:
