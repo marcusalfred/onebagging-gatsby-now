@@ -3,7 +3,7 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
+    url: 'https://baggers.one',
     title: 'Onebaggers from NOLA',
     subtitle:
       'Two travelers from New Orleans document thier experience of traveling light.',
@@ -15,22 +15,17 @@ module.exports = {
         path: '/',
       },
       {
-        label: 'About Sadiq',
+        label: 'Sadiq',
         path: '/sadiq/',
       },
       {
-        label: 'About Marcus',
+        label: 'Marcus',
         path: '/marcus/',
       },
     ],
     author: {
       name: 'NOLA Onebaggers',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#',
+      github: 'marcusalfred',
     },
   },
   plugins: [
