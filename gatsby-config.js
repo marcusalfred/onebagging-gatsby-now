@@ -6,7 +6,7 @@ module.exports = {
     url: 'https://baggers.one',
     title: 'Onebaggers from NOLA',
     subtitle:
-      'Two travelers from New Orleans document thier experience of traveling light.',
+      'Two travelers from New Orleans document their experience of traveling light.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
