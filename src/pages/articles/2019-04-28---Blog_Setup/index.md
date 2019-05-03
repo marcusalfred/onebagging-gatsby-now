@@ -2,7 +2,7 @@
 title: Setting Up a Gatsby Blog
 date: "2019-04-28T19:30:00.000Z"
 layout: post
-draft: true
+draft: false
 path: "/posts/blog_setup/"
 category: "Marcus"
 tags:
@@ -41,10 +41,18 @@ Once you've modified and personalized the starter, you'll want to show other peo
 
 ## Updates
 
-So its deployed... how will I make updates? On my next trip, I'll be traveling without my computer. I have not yet decided if I'll be bringing my iPad mini or not, but I plan to rely on my iPhone. Thankfully, [Now has a GitHub integration](https://zeit.co/github) to deploy projects automatically from pull request. This integration, paired with [Working Copy](https://workingcopyapp.com/) should allow me to create a new blog post and publish it to now _with ease_.
+So its deployed... how will I make updates? On my next trip, I'll be traveling without my computer. I have not yet decided if I'll be bringing my iPad mini or not, but I plan to rely on my iPhone. Thankfully, [Now has a GitHub integration](https://zeit.co/github) to deploy projects automatically from pull request. This integration, paired with [Working Copy](https://workingcopyapp.com/) should allow me to create a new blog post and publish it to Now _with ease_.
 
-Here's my workflow for writing a blog post:
-- Open [my repository](https://github.com/marcusalfred/onebagging-gatsby-now) in Working Copy
-- Create a new branch for my new post
-- Navigate to `/src/pages/articles`
-- Tap the ` + ` button and create a new directory
+Here's my workflow for writing a blog post with Working Copy:
+- open [my repository](https://github.com/marcusalfred/onebagging-gatsby-now) in Working Copy
+- create a new branch for my new post
+- navigate to `/src/pages/articles`
+- tap the ` + ` button and create a new directory
+- copy the file from the template directory and paste into the new directory.
+- write my blog using this template
+- commit these changes & push to remote
+- create a new pull request on the github mobile site
+- check this pull request in a few minutes for a new Now.sh staging deploy
+- confirm the blog appears and any changes were made
+- merge pull request
+- confirm post is live at https://bagging.one
