@@ -3,7 +3,7 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://baggers.one',
+    siteUrl: 'https://bagging.one',
     title: 'Onebaggers from NOLA',
     subtitle:
       'Two travelers from New Orleans document their experience of traveling light.',
@@ -43,7 +43,7 @@ module.exports = {
           {
             site {
               siteMetadata {
-                site_url: url
+                siteUrl
                 title
                 description: subtitle
               }
@@ -131,7 +131,7 @@ module.exports = {
             {
               site {
                 siteMetadata {
-                  url
+                  siteUrl
                 }
               }
               allSitePage(
@@ -150,7 +150,7 @@ module.exports = {
         serialize: ({ site, allSitePage }) =>
           allSitePage.edges.map(edge => {
             return {
-              url: site.siteMetadata.url + edge.node.path,
+              url: site.siteMetadata.siteUrl + edge.node.path,
               changefreq: 'daily',
               priority: 0.7,
             }

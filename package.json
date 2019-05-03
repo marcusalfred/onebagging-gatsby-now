@@ -1,7 +1,7 @@
 {
   "version": "3.0.0",
-  "name": "gatsby-v2-starter-lumen",
-  "description": "Simple starter for Gatsby",
+  "name": "bagging.one",
+  "description": "Gatsby One Bagging Site",
   "main": "n/a",
   "scripts": {
     "develop": "gatsby develop",
@@ -14,15 +14,14 @@
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "now-build": "npm run build"
   },
-  "repository": "git+https://github.com/alxshelepenok/gatsby-starter-lumen.git",
+  "repository": "git+https://github.com/marcusalfred/onebagging-gatsby-now.git",
   "keywords": [
     "gatsby",
     "blog",
     "react",
-    "theme",
-    "starter"
+    "theme"
   ],
-  "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
+  "author": "Marcus Carter <mac987@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.1",
