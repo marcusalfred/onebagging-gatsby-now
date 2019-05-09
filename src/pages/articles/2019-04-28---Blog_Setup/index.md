@@ -1,6 +1,6 @@
 ---
 title: Setting Up a Gatsby Blog
-date: "2019-04-28T19:30:00.000Z"
+date: "2019-05-03T13:30:00.000Z"
 layout: post
 draft: false
 path: "/posts/blog_setup/"
